@@ -2,12 +2,13 @@
 Localizador de cotas para integração em SGIB
 
 # 🗺️ Localizador de Obras Koha/USDB (Classic ASP)
+_Integração para visualização espacial de cotas no catálogo Koha_
 
 A funcionalidade Localizador de Obras da USDB (Serviços de Documentação e Bibliotecas da Universidade do Minho) é uma aplicação desenvolvida em Classic ASP (VBScript) que se integra no catálogo Koha. O seu objetivo é oferecer mapeamento espacial e visualização da localização física de publicações com base na sigla da biblioteca e na Classificação Decimal Universal (CDU).
 
 ## ✨ Resumo da Iniciativa
 
-Esta iniciativa responde à complexidade espacial e organizacional das nossas bibliotecas, que se traduz em desafios para os utilizadores na localização autónoma de publicações. O Localizador de Obras atua como uma ponte entre o registo digital (catálogo) e o espaço físico (biblioteca), tornando a informação mais precisa e esclarecedora.
+Esta iniciativa responde à complexidade espacial e organizacional das bibliotecas da Universidade do Minho,, que se traduz em desafios para os utilizadores na localização autónoma de publicações. O Localizador de Obras atua como uma ponte entre o registo digital (catálogo) e o espaço físico (biblioteca), tornando a informação mais precisa e esclarecedora.
 
 O código foi desenvolvido de forma modular e aberta, estando disponível para adaptação em qualquer versão do Koha ou sistemas compatíveis.
 
@@ -43,6 +44,12 @@ A separação do localizador do Koha garante segurança e flexibilidade:
 
 ## 📖 Como Usar (Configuração)
 
+Exemplo de estrutura de diretórios:
+/wayfind/
+├── wayfind.asp
+├── plantas/
+└── README.md
+
 Para implementar esta funcionalidade:
 
 1.  **Configurar o Servidor:** Certificar-se de que um servidor Windows ou Linux está configurado para executar Classic ASP.
@@ -62,4 +69,8 @@ Para implementar esta funcionalidade:
 
 ## 👥 Contribuições
 
-O desenvolvimento técnico encontra-se disponível para a comunidade internacional em acesso aberto no GitHub, em conformidade com a filosofia do software livre. Agradecemos qualquer contribuição, sugestão ou *feedback* para a evolução contínua desta funcionalidade.
+O desenvolvimento técnico encontra-se disponível para a comunidade internacional em acesso aberto no GitHub, em conformidade com a filosofia do software livre.  
+Agradecemos contributos, sugestões ou melhorias através de *issues* ou *pull requests*.  
+
+Projeto desenvolvido pelos [Serviços de Documentação e Bibliotecas da Universidade do Minho (USDB)](https://www.usdb.uminho.pt).
+
