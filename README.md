@@ -72,5 +72,13 @@ Para implementar esta funcionalidade:
 O desenvolvimento técnico encontra-se disponível para a comunidade internacional em acesso aberto no GitHub, em conformidade com a filosofia do software livre.  
 Agradecemos contributos, sugestões ou melhorias através de *issues* ou *pull requests*.  
 
+
+## 👥 Autoria
+
 Projeto desenvolvido pelos [Serviços de Documentação e Bibliotecas da Universidade do Minho (USDB)](https://www.usdb.uminho.pt).
+
+Ideia e conceção: **[Daniela Castro] daniela.castro@usdb.uminho.pt**  
+
+Desenvolvimento: **[Nuno Fernandes] nuno.fernandes@usdb.uminho.pt**  
+
 
